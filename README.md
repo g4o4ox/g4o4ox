@@ -2,7 +2,7 @@
 
 ### 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/eb/07/0a/eb070ae0f64106e2da420f601630a853.jpg" width="125px"><img src="https://tenor.com/view/miku-hatsune-miku-satsuki-32ki-mesmerizer-gif-10997332751054754524.gif" width="150px"><img src="https://i.pinimg.com/736x/9d/86/f5/9d86f5ab75f4de80aeafeae7adbc1ce5.jpg" width="125px">
+  <img src="https://i.pinimg.com/736x/eb/07/0a/eb070ae0f64106e2da420f601630a853.jpg" width="150px"><img src="https://tenor.com/view/miku-hatsune-miku-satsuki-32ki-mesmerizer-gif-10997332751054754524.gif" width="225px"><img src="https://i.pinimg.com/736x/9d/86/f5/9d86f5ab75f4de80aeafeae7adbc1ce5.jpg" width="150px">
 </p>
 
 
