@@ -28,5 +28,5 @@
 * Interesses: Compiladores, baixo nível, segurança.
 
 <p align="center" style="margin-top:20px; margin-bottom:20px;">
-  <img src="[URL_DO_TEUGIF.gif](https://tenor.com/view/miku-miku-beam-miku-gif-17809025294038646978.gif)" width="400"/>
+  <img src="[https://tenor.com/view/miku-miku-beam-miku-gif-17809025294038646978](https://tenor.com/view/miku-miku-beam-miku-gif-17809025294038646978.gif)" width="400"/>
 </p>
