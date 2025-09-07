@@ -27,6 +27,6 @@
 
 * Interesses: Compiladores, baixo nível, segurança.
 
-<p align="center">
+<p align="center" style="margin-top:20px; margin-bottom:20px;>
   <img src="https://tenor.com/view/miku-miku-beam-miku-gif-17809025294038646978.gif" width="400"/>
 </p>
