@@ -2,10 +2,11 @@
 
 ### 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/eb/07/0a/eb070ae0f64106e2da420f601630a853.jpg" width="225px" style="">
-  <img src="https://tenor.com/view/miku-hatsune-miku-satsuki-32ki-mesmerizer-gif-10997332751054754524.gif" width="250px">
-  <img src="https://i.pinimg.com/736x/9d/86/f5/9d86f5ab75f4de80aeafeae7adbc1ce5.jpg" width="225px" style="">
+  <img src="https://i.pinimg.com/736x/eb/07/0a/eb070ae0f64106e2da420f601630a853.jpg" style="max-width: 120px; width: 20%;">
+  <img src="https://tenor.com/view/miku-hatsune-miku-satsuki-32ki-mesmerizer-gif-10997332751054754524.gif" style="max-width: 150px; width: 25%;">
+  <img src="https://i.pinimg.com/736x/9d/86/f5/9d86f5ab75f4de80aeafeae7adbc1ce5.jpg" style="max-width: 120px; width: 20%;">
 </p>
+
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
