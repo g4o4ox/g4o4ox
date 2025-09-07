@@ -7,7 +7,6 @@
   <img src="https://i.pinimg.com/736x/9d/86/f5/9d86f5ab75f4de80aeafeae7adbc1ce5.jpg" width="225px" style="">
 </p>
 
-![Arch btw](https://img.shields.io/badge/Arch-btw-blue?logo=arch-linux)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
