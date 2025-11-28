@@ -22,7 +22,7 @@
 
 ### [About-Me]
 
-* Estudante de Programação.
+* Estudante de Tecnologia.
 * Interesse em sistemas operacionais, linguagens de programação e segurança.
 * Usuário de Linux ![Arch btw](https://img.shields.io/badge/Arch-btw-blue?logo=arch-linux)
 
@@ -32,7 +32,7 @@
 
 ### Habilidades
 
-* Linguagens: C, Python, Assembly (aprendendo).
+* Linguagens: C, Python, Assembly.
 
 * Sistemas: Linux, redes, banco de dados.
 
