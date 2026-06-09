@@ -17,19 +17,19 @@
 
 ### [About-Me]
 
-* Estudante de Tecnologia.
+* Estudante de Ciencias da Computação.
 * Interesse em sistemas operacionais, linguagens de programação e segurança.
 * Usuário de Linux ![Arch btw](https://img.shields.io/badge/Arch-btw-blue?logo=arch-linux)
 
 ### 📂 Projetos
 
-##### Em breve
+- MonolithOS - Simple and light operational System
 
 ### Habilidades
 
 * Linguagens: C, Python, Assembly.
 
-* Sistemas: Linux, redes, banco de dados.
+* Sistemas: Linux, redes.
 
 * Interesses: Compiladores, baixo nível, segurança.
 
